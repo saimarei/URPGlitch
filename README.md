@@ -1,3 +1,10 @@
+> ⚠️ **DEPRECATION WARNING: PROJECT NO LONGER MAINTAINED**
+> 
+> I have moved on to using the **Godot** engine and will no longer be updating this repository. 
+> 
+> **Keijiro Takahashi-san** (the creator of the original glitch effect) has since released his own official URP version of these glitch effects. If this repository breaks, please check out his official repository instead: **[KinoGlitchURP](https://github.com/keijiro/KinoGlitchURP)**.
+
+> **Note:** If you are coming from the older URP Glitch video, you need to download the older `2021.3.8f1+` package from the **Releases** section.
 > **Note:** If you are coming from the older URP Glitch video, you need to download the older `2021.3.8f1+` package from the **Releases** section.
 
 # URP Glitch Effect
